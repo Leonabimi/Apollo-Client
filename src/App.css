@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://images7.alphacoders.com/690/690237.jpg");
+  background-size: cover;
+}
+
+.cardBackground {
+  background-color: rgb(255, 225, 225);
+  opacity: 0.9;
+}
+.cardName {
+  color: black;
+  opacity: 100 !important;
+  font-family: auto;
+  font-weight: bold;
+}
+.header {
+  font-size: 60px;
+  font-family: fagsong;
+  font-weight: bold;
+  margin-top: 10px;
+  background-color: blanchedalmond;
+  opacity: 0.8;
+  border-radius: 1rem;
+}
